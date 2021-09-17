@@ -39,6 +39,7 @@ li.dropdown {
 
 #project {
   color: black;
+  border-radius: 48%;
 }
 
 #project:hover {
