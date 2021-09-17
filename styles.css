@@ -13,7 +13,7 @@ ul {
   width: 100%;
 }
 
-li a, .dropbtn {
+li a {
   display: inline-block;
   color: white;
   text-align: center;
@@ -21,7 +21,7 @@ li a, .dropbtn {
   text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+li a:hover {
   background-color: red;
 }
 
@@ -42,5 +42,5 @@ li.dropdown {
 }
 
 #project:hover {
-  color: red;
+  color: black;
 }
