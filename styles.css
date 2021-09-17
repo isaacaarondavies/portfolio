@@ -4,7 +4,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position: fixed;
+  position: relative;
   top: 0;
   width: 100%;
 }
@@ -23,4 +23,8 @@ li a:hover, .dropdown:hover .dropbtn {
 
 li.dropdown {
   display: inline-block;
+}
+
+.menu-option {
+  float: left;
 }
