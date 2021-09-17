@@ -36,3 +36,7 @@ li.dropdown {
 .contact {
   color: black;
 }
+
+#project:hover {
+  color: red;
+}
