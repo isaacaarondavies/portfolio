@@ -37,6 +37,10 @@ li.dropdown {
   color: black;
 }
 
+#project {
+  text-decoration-color: black;
+}
+
 #project:hover {
   color: red;
 }
